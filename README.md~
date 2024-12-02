@@ -1,1 +1,3 @@
 # project_taskier
+
+Задачник на python, фреймворк Streamlit, запуск "streamlit run taskier_app"
