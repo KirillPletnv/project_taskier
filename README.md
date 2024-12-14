@@ -1,6 +1,6 @@
 ## Задачник на python, фреймворк Streamlit, запуск "streamlit run taskier_app"
 Короткое видео-демонстрация работы приложения https://github.com/KirillPletnv/project_taskier/blob/main/Tasks.mp4
-Ютуб - https://youtu.be/i8R_WmlC3-g?si=FXTIpKRqbiThSG3U
+Ютуб - https://youtu.be/i8R_WmlC3-g?si=FXTIpKRqbiThSG3U, https://www.youtube.com/watch?v=i8R_WmlC3-g
 
 ![Screenshot](https://github.com/KirillPletnv/project_taskier/blob/main/Screenshot1.png)
 ![Screenshot](https://github.com/KirillPletnv/project_taskier/blob/main/Screenshot2.png)
